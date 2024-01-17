@@ -1,0 +1,76 @@
+/* *{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    } */
+
+button{
+    width: 230px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #008981;
+    
+/* background: rgb(2,0,36);
+background: linear-gradient(42deg, rgba(2,0,36,1) 0%, rgba(0,164,171,1) 55%, rgba(0,212,255,1) 100%); */
+    color: aliceblue;
+    border-radius: 10px;
+    border: #008981;
+}
+.button_submit{
+    border: #008981;
+
+    background-color:#c9393d;;/* background: linear-gradient(137deg, rgba(2,0,36,1) 0%, rgba(171,0,0,1) 69%); */
+border-radius: 10px;
+width: 230px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+
+}
+/* button:hover{
+    background-color: aqua;
+} */
+#main
+{
+    height: 100vh;
+    width: 100vh;
+}
+label{
+    padding:10px;
+    /* font-weight: 500; */
+     /* margin: 10px; */
+    display: block;
+    text-transform: capitalize;
+}
+#genfrom{
+    width:100%;
+    height: 100%;
+  justify-content: center;
+}
+span{
+    padding: 5px;
+    margin: 5px;
+}
+
+
+.removeBtn{
+    border: #008981;
+
+    background-color:#c9393d;
+border-radius: 10px;
+width: 230px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+.genbtn{
+    border: #008981;
+
+    background-color:#33aa38;;/* background: linear-gradient(137deg, rgba(2,0,36,1) 0%, rgba(171,0,0,1) 69%); */
+border-radius: 10px;
+width: 230px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+}
